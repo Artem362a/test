@@ -1,5 +1,4 @@
 class Yahtzee:
-
     @staticmethod
     def chance(d1, d2, d3, d4, d5):
         total = 0
